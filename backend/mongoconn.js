@@ -1,0 +1,1 @@
+const uri = 'mongodb+srv://iamAM:<password>@cluster0.raacjyz.mongodb.net/?retryWrites=true&w=majority'

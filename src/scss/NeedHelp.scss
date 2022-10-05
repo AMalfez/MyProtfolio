@@ -1,0 +1,19 @@
+.needhelp{
+    color: white;
+    height: 400px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 700;
+    .needhelp__heading{
+        background: linear-gradient(to right, #ed7fa9,
+                    #c4f3e7, #c29bcc, #ddf2f5);
+                    -webkit-text-fill-color: transparent;
+                    background-clip: text;
+                    font-size: 50px;
+                    margin-bottom: 30px;
+                    font-family: sans-serif;
+                    font-weight: 700;
+    }
+}
